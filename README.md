@@ -45,7 +45,7 @@ Core services include:
 
 This is a daily-use production environment with full documentation: installation steps, the failure points I hit, how I debugged them, and a complete writeup of recovering the system after an OS corruption event.
 
-> **Infrastructure portfolio:** [ link to your infra repo ]
+> **Infrastructure portfolio:** [OwenWallace994/infrastructure-operations-portfolio](https://github.com/OwenWallace994/infrastructure-operations-portfolio)
 
 ### TradeFlow
 
