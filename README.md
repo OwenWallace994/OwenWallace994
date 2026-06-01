@@ -76,6 +76,29 @@ I owned the whole thing: the problem definition, the workflow design, the archit
 
 ---
 
+## Selected Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/screenshots/grafana-dashboard.png" alt="Grafana infrastructure dashboard" />
+      <p><strong>Grafana</strong><br />Live infrastructure monitoring and observability across the self-hosted environment.</p>
+    </td>
+    <td width="50%">
+      <img src="./assets/screenshots/tradeflow-landing.png" alt="TradeFlow landing page" />
+      <p><strong>TradeFlow</strong><br />Custom workflow software built for material ordering, job structure, and cleaner operational handoff.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="./assets/screenshots/jellyfin-home.png" alt="Jellyfin home screen" />
+      <p><strong>Jellyfin</strong><br />A daily-use self-hosted media service running as part of the broader Innsmouth Archives environment.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## What I Do
 
 - Linux server administration, including Ubuntu and systemd
